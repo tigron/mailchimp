@@ -3,6 +3,7 @@
     "description": "MailChimp api v3 wrapper",
     "type": "library",
     "require": {
+        "othercode/rest": "~1.2"
     },
     "require-dev": {
     },
