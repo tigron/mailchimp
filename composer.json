@@ -1,0 +1,24 @@
+{
+    "name": "tigron/mailchimp",
+    "description": "MailChimp api v3 wrapper",
+    "type": "library",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tigron BVBA",
+            "email": "support@tigron.be"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/tigron/mailchimp",
+        "issues": "https://github.com/tigron/mailchimp/issues"
+    },
+    "autoload": {
+        "psr-4": { "Maimchimp\\": "lib/Mailchimp/" }
+    }
+
+}
