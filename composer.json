@@ -18,7 +18,7 @@
         "issues": "https://github.com/tigron/mailchimp/issues"
     },
     "autoload": {
-        "psr-4": { "Maimchimp\\": "lib/Mailchimp/" }
+        "psr-4": { "Mailchimp\\": "lib/Mailchimp/" }
     }
 
 }
